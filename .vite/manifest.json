@@ -1,0 +1,162 @@
+{
+  "index.html": {
+    "file": "assets/index-DC5855Mp.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "node_modules/html2canvas/dist/html2canvas.js",
+      "node_modules/dompurify/dist/purify.es.mjs",
+      "node_modules/canvg/lib/index.es.js"
+    ],
+    "css": [
+      "assets/index-CA7qlELk.css"
+    ],
+    "assets": [
+      "assets/ibm-plex-sans-arabic-arabic-300-normal-CbO9c89e.woff2",
+      "assets/ibm-plex-sans-arabic-arabic-300-normal-D1YP2vdu.woff",
+      "assets/ibm-plex-sans-arabic-latin-ext-300-normal-BzupEmdQ.woff2",
+      "assets/ibm-plex-sans-arabic-latin-ext-300-normal-B47YZoZZ.woff",
+      "assets/ibm-plex-sans-arabic-latin-300-normal-B_2Ptpb1.woff2",
+      "assets/ibm-plex-sans-arabic-latin-300-normal-D4-nvPU-.woff",
+      "assets/ibm-plex-sans-arabic-arabic-400-normal-CyU-ddYS.woff2",
+      "assets/ibm-plex-sans-arabic-arabic-400-normal-EA1o-u_Q.woff",
+      "assets/ibm-plex-sans-arabic-latin-ext-400-normal-BpLfq-63.woff2",
+      "assets/ibm-plex-sans-arabic-latin-ext-400-normal-BeVLg08x.woff",
+      "assets/ibm-plex-sans-arabic-latin-400-normal-Bo5KPYvw.woff2",
+      "assets/ibm-plex-sans-arabic-latin-400-normal-CFZh1unN.woff",
+      "assets/ibm-plex-sans-arabic-arabic-500-normal-C4MQITzh.woff2",
+      "assets/ibm-plex-sans-arabic-arabic-500-normal-DPXcppbm.woff",
+      "assets/ibm-plex-sans-arabic-latin-ext-500-normal-Ck_W4G78.woff2",
+      "assets/ibm-plex-sans-arabic-latin-ext-500-normal-eJxPnL1P.woff",
+      "assets/ibm-plex-sans-arabic-latin-500-normal-Cd6jVIg7.woff2",
+      "assets/ibm-plex-sans-arabic-latin-500-normal-BletK1Hp.woff",
+      "assets/ibm-plex-sans-arabic-arabic-600-normal-0pRdybE_.woff2",
+      "assets/ibm-plex-sans-arabic-arabic-600-normal-MJZ0liF5.woff",
+      "assets/ibm-plex-sans-arabic-latin-ext-600-normal-DjDAeNQD.woff2",
+      "assets/ibm-plex-sans-arabic-latin-ext-600-normal-DT29Q8HW.woff",
+      "assets/ibm-plex-sans-arabic-latin-600-normal-KrqB56Mw.woff2",
+      "assets/ibm-plex-sans-arabic-latin-600-normal-Dk5eISD_.woff"
+    ]
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-300-normal.woff": {
+    "file": "assets/ibm-plex-sans-arabic-arabic-300-normal-D1YP2vdu.woff",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-300-normal.woff"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-300-normal.woff2": {
+    "file": "assets/ibm-plex-sans-arabic-arabic-300-normal-CbO9c89e.woff2",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-300-normal.woff2"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-400-normal.woff": {
+    "file": "assets/ibm-plex-sans-arabic-arabic-400-normal-EA1o-u_Q.woff",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-400-normal.woff"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-400-normal.woff2": {
+    "file": "assets/ibm-plex-sans-arabic-arabic-400-normal-CyU-ddYS.woff2",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-400-normal.woff2"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-500-normal.woff": {
+    "file": "assets/ibm-plex-sans-arabic-arabic-500-normal-DPXcppbm.woff",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-500-normal.woff"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-500-normal.woff2": {
+    "file": "assets/ibm-plex-sans-arabic-arabic-500-normal-C4MQITzh.woff2",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-500-normal.woff2"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-600-normal.woff": {
+    "file": "assets/ibm-plex-sans-arabic-arabic-600-normal-MJZ0liF5.woff",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-600-normal.woff"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-600-normal.woff2": {
+    "file": "assets/ibm-plex-sans-arabic-arabic-600-normal-0pRdybE_.woff2",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-600-normal.woff2"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-300-normal.woff": {
+    "file": "assets/ibm-plex-sans-arabic-latin-300-normal-D4-nvPU-.woff",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-300-normal.woff"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-300-normal.woff2": {
+    "file": "assets/ibm-plex-sans-arabic-latin-300-normal-B_2Ptpb1.woff2",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-300-normal.woff2"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-400-normal.woff": {
+    "file": "assets/ibm-plex-sans-arabic-latin-400-normal-CFZh1unN.woff",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-400-normal.woff2": {
+    "file": "assets/ibm-plex-sans-arabic-latin-400-normal-Bo5KPYvw.woff2",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-500-normal.woff": {
+    "file": "assets/ibm-plex-sans-arabic-latin-500-normal-BletK1Hp.woff",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-500-normal.woff"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-500-normal.woff2": {
+    "file": "assets/ibm-plex-sans-arabic-latin-500-normal-Cd6jVIg7.woff2",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-500-normal.woff2"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-600-normal.woff": {
+    "file": "assets/ibm-plex-sans-arabic-latin-600-normal-Dk5eISD_.woff",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-600-normal.woff2": {
+    "file": "assets/ibm-plex-sans-arabic-latin-600-normal-KrqB56Mw.woff2",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-300-normal.woff": {
+    "file": "assets/ibm-plex-sans-arabic-latin-ext-300-normal-B47YZoZZ.woff",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-300-normal.woff"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-300-normal.woff2": {
+    "file": "assets/ibm-plex-sans-arabic-latin-ext-300-normal-BzupEmdQ.woff2",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-300-normal.woff2"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-400-normal.woff": {
+    "file": "assets/ibm-plex-sans-arabic-latin-ext-400-normal-BeVLg08x.woff",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-400-normal.woff"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-400-normal.woff2": {
+    "file": "assets/ibm-plex-sans-arabic-latin-ext-400-normal-BpLfq-63.woff2",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-500-normal.woff": {
+    "file": "assets/ibm-plex-sans-arabic-latin-ext-500-normal-eJxPnL1P.woff",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-500-normal.woff"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-500-normal.woff2": {
+    "file": "assets/ibm-plex-sans-arabic-latin-ext-500-normal-Ck_W4G78.woff2",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-500-normal.woff2"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-600-normal.woff": {
+    "file": "assets/ibm-plex-sans-arabic-latin-ext-600-normal-DT29Q8HW.woff",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-600-normal.woff"
+  },
+  "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-600-normal.woff2": {
+    "file": "assets/ibm-plex-sans-arabic-latin-ext-600-normal-DjDAeNQD.woff2",
+    "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-600-normal.woff2"
+  },
+  "node_modules/canvg/lib/index.es.js": {
+    "file": "assets/index.es-CtWmcah2.js",
+    "name": "index.es",
+    "src": "node_modules/canvg/lib/index.es.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "node_modules/dompurify/dist/purify.es.mjs": {
+    "file": "assets/purify.es-eyZ2HLgt.js",
+    "name": "purify.es",
+    "src": "node_modules/dompurify/dist/purify.es.mjs",
+    "isDynamicEntry": true
+  },
+  "node_modules/html2canvas/dist/html2canvas.js": {
+    "file": "assets/html2canvas-Cszd7dCx.js",
+    "name": "html2canvas",
+    "src": "node_modules/html2canvas/dist/html2canvas.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  }
+}
