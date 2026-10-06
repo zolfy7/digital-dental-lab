@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-DC5855Mp.js",
+    "file": "assets/index-CynfAlg8.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -136,7 +136,7 @@
     "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-600-normal.woff2"
   },
   "node_modules/canvg/lib/index.es.js": {
-    "file": "assets/index.es-CtWmcah2.js",
+    "file": "assets/index.es-Q0FY3li6.js",
     "name": "index.es",
     "src": "node_modules/canvg/lib/index.es.js",
     "isDynamicEntry": true,
@@ -151,7 +151,7 @@
     "isDynamicEntry": true
   },
   "node_modules/html2canvas/dist/html2canvas.js": {
-    "file": "assets/html2canvas-Cszd7dCx.js",
+    "file": "assets/html2canvas-D0N65LIl.js",
     "name": "html2canvas",
     "src": "node_modules/html2canvas/dist/html2canvas.js",
     "isDynamicEntry": true,
