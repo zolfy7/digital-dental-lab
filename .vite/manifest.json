@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-BwYSdgR7.js",
+    "file": "assets/index-D1GYcKH6.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -10,7 +10,7 @@
       "node_modules/canvg/lib/index.es.js"
     ],
     "css": [
-      "assets/index-CA7qlELk.css"
+      "assets/index-CVd0iwoe.css"
     ],
     "assets": [
       "assets/ibm-plex-sans-arabic-arabic-300-normal-CbO9c89e.woff2",
@@ -136,7 +136,7 @@
     "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-600-normal.woff2"
   },
   "node_modules/canvg/lib/index.es.js": {
-    "file": "assets/index.es-DFUl2b10.js",
+    "file": "assets/index.es-Bq5oSxsG.js",
     "name": "index.es",
     "src": "node_modules/canvg/lib/index.es.js",
     "isDynamicEntry": true,
@@ -151,7 +151,7 @@
     "isDynamicEntry": true
   },
   "node_modules/html2canvas/dist/html2canvas.js": {
-    "file": "assets/html2canvas-DqlsVZy9.js",
+    "file": "assets/html2canvas-Xoa6OZyi.js",
     "name": "html2canvas",
     "src": "node_modules/html2canvas/dist/html2canvas.js",
     "isDynamicEntry": true,
