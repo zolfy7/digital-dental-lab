@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-BYT0qhzi.js",
+    "file": "assets/index-DpJAgImU.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -13,8 +13,8 @@
       "assets/index-CFqQmJBv.css"
     ],
     "assets": [
-      "assets/aurum-wordmark-pearl-BfXObK5F.svg",
-      "assets/aurum-wordmark-dark-J8dFfPRd.svg",
+      "assets/orom-wordmark-pearl-CB8vM0lz.svg",
+      "assets/orom-wordmark-dark-DR-qt-9V.svg",
       "assets/ibm-plex-sans-arabic-arabic-300-normal-CbO9c89e.woff2",
       "assets/ibm-plex-sans-arabic-arabic-300-normal-D1YP2vdu.woff",
       "assets/ibm-plex-sans-arabic-latin-ext-300-normal-BzupEmdQ.woff2",
@@ -138,7 +138,7 @@
     "src": "node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-ext-600-normal.woff2"
   },
   "node_modules/canvg/lib/index.es.js": {
-    "file": "assets/index.es-vyYYuUXG.js",
+    "file": "assets/index.es-DPMTSKQ4.js",
     "name": "index.es",
     "src": "node_modules/canvg/lib/index.es.js",
     "isDynamicEntry": true,
@@ -153,7 +153,7 @@
     "isDynamicEntry": true
   },
   "node_modules/html2canvas/dist/html2canvas.js": {
-    "file": "assets/html2canvas-OJuDyp-x.js",
+    "file": "assets/html2canvas-BdcZY25z.js",
     "name": "html2canvas",
     "src": "node_modules/html2canvas/dist/html2canvas.js",
     "isDynamicEntry": true,
@@ -161,12 +161,12 @@
       "index.html"
     ]
   },
-  "src/assets/aurum-wordmark-dark.svg": {
-    "file": "assets/aurum-wordmark-dark-J8dFfPRd.svg",
-    "src": "src/assets/aurum-wordmark-dark.svg"
+  "src/assets/orom-wordmark-dark.svg": {
+    "file": "assets/orom-wordmark-dark-DR-qt-9V.svg",
+    "src": "src/assets/orom-wordmark-dark.svg"
   },
-  "src/assets/aurum-wordmark-pearl.svg": {
-    "file": "assets/aurum-wordmark-pearl-BfXObK5F.svg",
-    "src": "src/assets/aurum-wordmark-pearl.svg"
+  "src/assets/orom-wordmark-pearl.svg": {
+    "file": "assets/orom-wordmark-pearl-CB8vM0lz.svg",
+    "src": "src/assets/orom-wordmark-pearl.svg"
   }
 }

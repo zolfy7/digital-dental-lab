@@ -1,7 +1,7 @@
 // Offline cache. On install it precaches every built file listed in Vite's
 // manifest; afterwards it answers from the cache first and refreshes in the
 // background, so the presentation works in a clinic without Wi-Fi.
-const CACHE = 'dentlab-1792224487885';
+const CACHE = 'dentlab-1792505285901';
 const BASE = new URL('./', self.location).href;
 
 self.addEventListener('install', (event) => {
